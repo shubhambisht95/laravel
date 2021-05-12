@@ -2,4 +2,4 @@
 <?php
 
 
-echo "testing";
+echo "testing welcome";
